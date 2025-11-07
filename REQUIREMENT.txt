@@ -1,0 +1,11 @@
+Librairies nécéssaires :
+pygame
+math
+random
+json
+copy
+os
+threading
+ctypes
+
+(toutes les librairies sont installablent avec "pip install {nom}" dans l'indice de commande)

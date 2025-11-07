@@ -1,0 +1,193 @@
+{
+    "creatureStartingNumber": 6,
+    "creatureNumber": 6,
+    "creaturePositions": [
+        [
+            250,
+            200
+        ],
+        [
+            250,
+            700
+        ],
+        [
+            1742,
+            500
+        ],
+        [
+            250,
+            400
+        ],
+        [
+            50,
+            500
+        ],
+        [
+            1742,
+            900
+        ]
+    ],
+    "creatureId": [
+        "Lina Bennani",
+        "Lilly Gomez",
+        "S\u00e9l\u00e8ne Martin",
+        "Alycia Tord",
+        "Ray Durand",
+        "Adam Abouda"
+    ],
+    "creatureDestinations": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "creatureSens": [
+        [
+            2.5923831217924573,
+            1.509817786968213
+        ],
+        [
+            2.773474493644246,
+            1.1436079892624003
+        ],
+        [
+            -2.8901751335011645,
+            -0.8042932908408019
+        ],
+        [
+            2.973591854786367,
+            0.397179406752384
+        ],
+        [
+            2.924075220709916,
+            0.6706594542912651
+        ],
+        [
+            -2.3551437081469913,
+            -1.8583051724557083
+        ]
+    ],
+    "creatureSprites": [
+        6,
+        6,
+        6,
+        6,
+        3,
+        1
+    ],
+    "creatureRoles": [
+        "Loup-garou",
+        "Villageois",
+        "Voyante",
+        "Villageois",
+        "Loup-garou",
+        "Loup-garou"
+    ],
+    "creatureMates": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "creatureEvilness": [
+        100,
+        157,
+        33,
+        65,
+        13,
+        69,
+        136
+    ],
+    "creatureTent": [
+        3,
+        13,
+        26,
+        7,
+        8,
+        34
+    ],
+    "creatureTentState": [
+        true,
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "creatureTrust": [
+        [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+        ],
+        [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+        ],
+        [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+        ],
+        [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+        ],
+        [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+        ],
+        [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+        ]
+    ],
+    "straightReproduction": false,
+    "villainPart": true,
+    "villainPartPercentage": 0.3,
+    "cycle": 1,
+    "timeRemaining": 12,
+    "playType": "original",
+    "mayor": 5,
+    "witchRemainingPotion": [
+        true,
+        false
+    ],
+    "witchUseHeal": false,
+    "protected": null,
+    "foxPower": true,
+    "lovers": null,
+    "pyromaniacTarget": [
+        1,
+        4,
+        4,
+        4,
+        1
+    ]
+}
