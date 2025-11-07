@@ -1,12 +1,5 @@
 
-/!\ Nous n'avons été prévenu du concours que le 10 mars /!\
- ↓ si vous voulez une version actualisée (pas forcément finie) différente de celle donnée le 28 mars ↓ 
-https://drive.google.com/drive/folders/1--jKM9A903z1SB7FzyKWeHwBZ9DoaEg-?usp=sharing
-
-------------
 # |NOX VILLAE|
-------------
-
 
 SOMMAIRE : 
 1. Description du projet
