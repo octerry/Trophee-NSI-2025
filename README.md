@@ -9,7 +9,7 @@ SOMMAIRE :
 
 --1-- DESCRIPTION DU PROJET
 
-	Ce projet python est un jeu Loup-garou solo dans lequel interagir avec les PNJ a de l'importance si on veut gagner avec notre camp.
+Ce projet python est un jeu Loup-garou solo dans lequel interagir avec les PNJ a de l'importance si on veut gagner avec notre camp.
 Pour être sûr de bien jouer avec les PNJ nous devons entretenir un lien de confiance entre chacun pour être sûr de ne pas se faire voter.
 Pour augmenter cette confiance nous pouvons récupérer des fruits dans les arbres grâce à l'entraide
 
@@ -17,10 +17,10 @@ Pour augmenter cette confiance nous pouvons récupérer des fruits dans les arbr
 
 -> Executer le fichier "Start.py" (dans le dossier "Jeu") pour lancer le jeu
 
-	|Dans l'ordre d'une partie habituelle|
-	> Menus
+|Dans l'ordre d'une partie habituelle|
+> Menus
 
-	Vous commencez sur le menu principal du jeu, vous pouvez accéder avec les boutons:
+Vous commencez sur le menu principal du jeu, vous pouvez accéder avec les boutons:
 - aux menus de paramètres (configuration des paramètres en jeu/configuration des touches)
 - au menu de sauvegardes
 - au menu de données de parties
@@ -89,5 +89,5 @@ A la fin du timer la nuit tombe et vous arrivez dans VOTRE TENTE DE NUIT où vou
 
 --3-- HISTOIRE DU JEU
 
-	D'un temps lointain, le village de Thiercelieux, après avoir éradiqué la menace de Loups-garous de son village a décidé d'appeler tous les villages aux alentours à envoyer des groupes d'explorateurs chercher dans la forêt de Jouy pour chercher les derniers Loups-garous qui se sont enfuis. Les explorateurs se sont donc retrouvés pour former un camp mais après évaluation de la situation le groupe a remarqué que des Loups-garous étaient présents dans le groupe et il était trop tard pour faire demi-tour, ils devaient éliminer les Loups-garous avant qu'ils ne meurent.
+D'un temps lointain, le village de Thiercelieux, après avoir éradiqué la menace de Loups-garous de son village a décidé d'appeler tous les villages aux alentours à envoyer des groupes d'explorateurs chercher dans la forêt de Jouy pour chercher les derniers Loups-garous qui se sont enfuis. Les explorateurs se sont donc retrouvés pour former un camp mais après évaluation de la situation le groupe a remarqué que des Loups-garous étaient présents dans le groupe et il était trop tard pour faire demi-tour, ils devaient éliminer les Loups-garous avant qu'ils ne meurent.
 
