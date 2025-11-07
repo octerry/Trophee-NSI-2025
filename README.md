@@ -9,6 +9,8 @@ SOMMAIRE :
 
 --1-- DESCRIPTION DU PROJET
 
+/!\ ATTENTION, Le projet n'a jamais été fini donc il n'est absolument pas optimisé et possède beaucoup de bugs donc faites attentions quand vous le lancez /!\
+
 Ce projet python est un jeu Loup-garou solo dans lequel interagir avec les PNJ a de l'importance si on veut gagner avec notre camp.
 Pour être sûr de bien jouer avec les PNJ nous devons entretenir un lien de confiance entre chacun pour être sûr de ne pas se faire voter.
 Pour augmenter cette confiance nous pouvons récupérer des fruits dans les arbres grâce à l'entraide
